@@ -1,7 +1,7 @@
 * 👋 Hi, I’m @Adityatorgal17
 * 👀 I’m interested in C++ Developer
 * 🌱 I’m currently learning DSA
-* 📫 How to reach me https://www.linkedin.com/in/aditya-torgal-3283a028b/
+* 📫 How to reach me https://www.linkedin.com/in/adityatorgal/
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I love coding
 
